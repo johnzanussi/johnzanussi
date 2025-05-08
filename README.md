@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm John Zanussi
 
-<!--
-**johnzanussi/johnzanussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Manager with a strong background in front-end development. I enjoy building things for the web and sharing my experiences with the community.
 
-Here are some ideas to get you started:
+## 🧰 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Currently Senior Engineering Manager at [Paperless Post](https://www.paperlesspost.com/)
+- 💻 Former front-end engineer (since early 2000s) who has worked up and down the stack
+- 🌊 Long Island, New York native with an affinity for water and beaches
+- 🏃‍♂️ Runner who completed my first half marathon [10 months after breaking my leg](https://johnzanussi.com/posts/suffolk-half-marathon-2023)
+- 👨‍👩‍👧‍👦 Dad to two awesome kids
+
+## 📫 Connect
+
+- 🌐 [Website](https://johnzanussi.com/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/john-zanussi/)
+- 🖨️ [Printables](https://www.printables.com/@johnzanussi)
