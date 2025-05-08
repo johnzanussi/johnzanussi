@@ -1,5 +1,3 @@
-# 👋 Hi, I'm John Zanussi
-
 Software Engineering Manager with a strong background in front-end development. I enjoy building things for the web and sharing my experiences with the community.
 
 ## 🧰 About Me
